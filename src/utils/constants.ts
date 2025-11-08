@@ -1,0 +1,1 @@
+export const TARGET_FILE_EXTENSION = '.tgs';
